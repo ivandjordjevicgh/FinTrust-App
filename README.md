@@ -63,7 +63,9 @@ pip install -r requirements.txt
 
 ### 🏁 Start the CLI App
 ```bash
-python src/cli_app.py
+In the terminal, from the root of the project (C:\Users\User\Desktop\FinTrust) run:
+
+python -m src.cli_app
 ```
 
 ### 🧪 Run Tests
